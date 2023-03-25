@@ -1,4 +1,5 @@
 def func_upp_text(text: str):
+    """Возвращает все буквы главными"""
     return text.upper()
 
 
